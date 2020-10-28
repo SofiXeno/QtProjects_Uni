@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/ic_folder_open_24px.png</file>
+        <file>img/icons8-add_new.png</file>
+        <file>img/icons8-circle.png</file>
+        <file>img/icons8-close_sign.png</file>
+        <file>img/icons8-copy.png</file>
+        <file>img/icons8-cut.png</file>
+        <file>img/icons8-drag.png</file>
+        <file>img/icons8-eraser.png</file>
+        <file>img/icons8-fill_color.png</file>
+        <file>img/icons8-full_image.png</file>
+        <file>img/icons8-help.png</file>
+        <file>img/icons8-info.png</file>
+        <file>img/icons8-open_sign.png</file>
+        <file>img/icons8-paste.png</file>
+        <file>img/icons8-save.png</file>
+        <file>img/icons8-sign_up.png</file>
+        <file>img/icons8-triangle.png</file>
+        <file>img/icons8-wacom_tablet.png</file>
+        <file>img/icons8-zoom_to_extents.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/ic_folder_open_24px.png</file>
+        <file>img/icons8-add_new.png</file>
+        <file>img/icons8-circle.png</file>
+        <file>img/icons8-close_sign.png</file>
+        <file>img/icons8-copy.png</file>
+        <file>img/icons8-cut.png</file>
+        <file>img/icons8-drag.png</file>
+        <file>img/icons8-eraser.png</file>
+        <file>img/icons8-fill_color.png</file>
+        <file>img/icons8-full_image.png</file>
+        <file>img/icons8-help.png</file>
+        <file>img/icons8-info.png</file>
+        <file>img/icons8-open_sign.png</file>
+        <file>img/icons8-paint_palette.png</file>
+        <file>img/icons8-paste.png</file>
+        <file>img/icons8-save.png</file>
+        <file>img/icons8-sign_up.png</file>
+        <file>img/icons8-triangle.png</file>
+        <file>img/icons8-wacom_tablet.png</file>
+        <file>img/icons8-zoom_to_extents.png</file>
+    </qresource>
+</RCC>
